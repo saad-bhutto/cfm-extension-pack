@@ -32,7 +32,7 @@ These are some of our favorite extensions to make development easier and fun.
 
 ## Relevant Links
 
-- [Github](https://github.com/aroflo)
+- [Github](https://github.com/saad-bhutto)
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?)
 
 **Enjoy!**
