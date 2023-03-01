@@ -1,6 +1,6 @@
 # Coldfusion (CFML) extensions pack
 
-A collection of extensions for working with Coldfusion Stack in VS Code.
+A collection of extensions for working with Coldfusion + Vue + SQL Stack in VS Code.
 
 These are some of our favorite extensions to make development easier and fun.
 

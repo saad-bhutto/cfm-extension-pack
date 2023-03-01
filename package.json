@@ -1,8 +1,9 @@
 {
   "name": "cfm-extension-pack",
-  "displayName": "cfm-extension-pack",
-  "description": "This is a collection of suggested vscode extensions.",
-  "version": "0.0.1",
+  "displayName": "coldfusion extension pack",
+  "description": "This is a collection of suggested vscode extensions for developing Coldfusion SQL and Vue application.",
+  "version": "1.0.0",
+  "publisher": "saadbhutto",
   "engines": {
     "vscode": "^1.75.0"
   },
