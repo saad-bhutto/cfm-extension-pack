@@ -1,0 +1,41 @@
+{
+  "name": "aro-extensions-pack",
+  "displayName": "aro-extensions-pack",
+  "description": "This is a collection of suggested vscode extensions.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AroFlo/aroflo-extension-pack"
+  },
+  "extensionPack": [ 
+    "alefragnani.Bookmarks", 
+    "amirHA.better-comments-2", 
+    "christian-kohler.npm-intellisense", 
+    "DomenicC.cfml-component-paths", 
+    "ms-vscode-remote.vscode-remote-extensionpack", 
+    "CoenraadS.bracket-pair-colorizer", 
+    "eamodio.gitlens", 
+    "esbenp.prettier-vscode", 
+    "octref.vetur", 
+    "sdras.vue-vscode-snippets", 
+    "tombonnike.vscode-status-bar-format-toggle", 
+    "ilich8086.coldfusion", 
+    "KamasamaK.vscode-cfml", 
+    "ms-azuretools.vscode-docker", 
+    "ms-vscode-remote.remote-wsl", 
+    "TaoKlerks.poor-mans-t-sql-formatter-vscode", 
+    "gruntfuggly.todo-tree", 
+    "sdras.vue-vscode-extensionpack", 
+    "wmaurer.change-case", 
+    "oderwat.indent-rainbow", 
+    "shardulm94.trailing-spaces", 
+    "ionutvmi.path-autocomplete", 
+    "xabikos.JavaScriptSnippets"
+  ]
+}
