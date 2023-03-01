@@ -1,9 +1,6 @@
-# aro-extensions-pack
+# Coldfusion (CFML) extensions pack
 
-
-## Aroflo's extensions pack
-
-A collection of extensions for working with Aroflo Stack in VS Code.
+A collection of extensions for working with Coldfusion Stack in VS Code.
 
 These are some of our favorite extensions to make development easier and fun.
 
@@ -35,9 +32,8 @@ These are some of our favorite extensions to make development easier and fun.
 
 ## Relevant Links
 
-- [Aroflo](https://aroflo.com/)
 - [Github](https://github.com/aroflo)
-- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack&WT.mc_id=marketplace-pack-sdras)
+- [VS Code Marketplace](https://marketplace.visualstudio.com/items?)
 
 **Enjoy!**
 
